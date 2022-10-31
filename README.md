@@ -5,7 +5,7 @@ a quick python script that pulls some data out of a dataset of poker hands and o
 
 unzip the dataset
 
-place the dataset and analyze.py in the same locaiton
+place the dataset and analyze.py in the same location
 
 run analyze.py with python 3
 
