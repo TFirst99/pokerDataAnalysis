@@ -1,7 +1,7 @@
 # pokerDataAnalysis
 a quick python script that pulls some data out of a dataset of poker hands and organizes it into columns in an excel spreadsheet.
 
-**to use**
+**INSTRUCTIONS**
 
 unzip the dataset
 
@@ -11,5 +11,6 @@ run analyze.py with python 3
 
 follow the prompts
 
-**dataset**
+**SOURCES**
+
 dataset from https://www.kaggle.com/datasets/smeilz/poker-holdem-games
