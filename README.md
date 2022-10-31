@@ -11,3 +11,5 @@ run analyze.py with python 3
 
 follow the prompts
 
+**dataset**
+dataset from https://www.kaggle.com/datasets/smeilz/poker-holdem-games
